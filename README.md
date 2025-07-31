@@ -1,4 +1,4 @@
-# GIF 🖼️➡️🎞️
+# GIF 
 This is a simple Python script to convert images into a GIF using the `imageio` library.
 
 ## How it works
